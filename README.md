@@ -1,6 +1,6 @@
 # React Native Markdown Display [![npm version](https://badge.fury.io/js/react-native-markdown-display.svg)](https://badge.fury.io/js/react-native-markdown-display) [![Known Vulnerabilities](https://snyk.io/test/github/iamacup/react-native-markdown-display/badge.svg)](https://snyk.io/test/github/iamacup/react-native-markdown-display)
 
-**This is a fork of [](https://github.com/iamacup/react-native-markdown-display) that increases the depended upon versions of react to 17 and react-native to v0.68. This makes it compatible with Expo SDK 45**
+**This is a fork of [iamacup/react-native-markdown-display](https://github.com/iamacup/react-native-markdown-display) that increases the depended upon versions of react to 17 and react-native to v0.68. This makes it compatible with Expo SDK 45**
 
 It a 100% compatible CommonMark renderer, a react-native markdown renderer done right. This is __not__ a web-view markdown renderer but a renderer that uses native components for all its elements. These components can be overwritten and styled as needed.
 
